@@ -17,3 +17,14 @@
 | H3k79me2 | H3k79me2StdAlnRep1.bam |
 | H3k9ac | H3k9acStdAlnRep1.bam |
 | H3k9me3 | H3k9me3AlnRep1.bam |
+
+Полученные изображения после ChromHMM:
+
+
+<p float="left">
+  <img src="/ChromHMM\ Output/emissions_10.png" width="330" />
+  <img src="/ChromHMM\ Output/transitions_10.png" width="330" />
+  <img src="/ChromHMM\ Output/HeLa-S3_10_overlap.png" width="330" />
+  <img src="/ChromHMM\ Output/HeLa-S3_10_10_RefSeqTSS_neighborhood.png" width="400" />
+  <img src="/ChromHMM\ Output/HeLa-S3_10_10_RefSeqTES_neighborhood.png" width="400" />
+</p>
