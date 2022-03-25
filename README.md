@@ -25,6 +25,6 @@
   <img src="/ChromHMM_Output/emissions_10.png" width="330" />
   <img src="/ChromHMM_Output/transitions_10.png" width="330" />
   <img src="/ChromHMM_Output/HeLa-S3_10_overlap.png" width="330" />
-  <img src="/ChromHMM_Output/HeLa-S3_10_10_RefSeqTSS_neighborhood.png" width="400" />
-  <img src="/ChromHMM_Output/HeLa-S3_10_10_RefSeqTES_neighborhood.png" width="400" />
+  <img src="/ChromHMM_Output/HeLa-S3_10_RefSeqTSS_neighborhood.png" width="400" />
+  <img src="/ChromHMM_Output/HeLa-S3_10_RefSeqTES_neighborhood.png" width="400" />
 </p>
