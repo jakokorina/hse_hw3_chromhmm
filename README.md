@@ -22,9 +22,9 @@
 
 
 <p float="left">
-  <img src="/ChromHMM\ Output/emissions_10.png" width="330" />
+  <img src="/ChromHMM%2Output/emissions_10.png" width="330" />
   <img src="/ChromHMM\ Output/transitions_10.png" width="330" />
   <img src="/ChromHMM\ Output/HeLa-S3_10_overlap.png" width="330" />
   <img src="/ChromHMM\ Output/HeLa-S3_10_10_RefSeqTSS_neighborhood.png" width="400" />
-  <img src="/ChromHMM\ Output/HeLa-S3_10_10_RefSeqTES_neighborhood.png" width="400" />
+  <img src="/ChromHMM%2Output/HeLa-S3_10_10_RefSeqTES_neighborhood.png" width="400" />
 </p>
