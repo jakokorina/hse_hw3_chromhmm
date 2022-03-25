@@ -18,7 +18,7 @@
 | H3k9ac | H3k9acStdAlnRep1.bam |
 | H3k9me3 | H3k9me3AlnRep1.bam |
 
-Полученные изображения после ChromHMM:
+Полученные в результате рабоыт ChromHMM изображения:
 
 
 <p float="left">
