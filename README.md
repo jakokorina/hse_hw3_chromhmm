@@ -55,3 +55,7 @@ Google colab: https://colab.research.google.com/drive/19-7X2kON6Jzc3-jCyTf286eld
 |   10  | Нет                                   | Большой процент ядерной ламины. Имеет низкий сигнал. | Heterochromatin |
 
 ## Бонусная часть
+
+Код есть в google colab.
+
+<img src="/genome_browser/bonus.png"/>
