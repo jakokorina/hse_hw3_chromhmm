@@ -34,7 +34,7 @@
 
 <p float="left">
   <img src="/genome_browser/genome_browser_1.png" width="500" />
-  <img src="/genome_browser/genome_browser_2.png" width="500" />
+  <img src="/genome_browser/genome_browser_2_0.png" width="500" />
 </p>
 
 | State | Встречающиеся гистоновые модификации | Название эпигенетического типа |
