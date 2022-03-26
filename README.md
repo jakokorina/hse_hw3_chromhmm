@@ -30,6 +30,13 @@
 </p>
 
 
+Скриншоты из genome.browser:
+
+<p float="left">
+  <img src="/genome_browser/genome_browser_1.png" width="500" />
+  <img src="/genome_browser/genome_browser_2.png" width="500" />
+</p>
+
 | State | Встречающиеся гистоновые модификации | Название эпигенетического типа |
 | ----- | ------------------------------------ | ------------------------------ |
 |   1   | H2azAlnRep1.bam                       | ------------------------------ |
