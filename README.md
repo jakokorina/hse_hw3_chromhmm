@@ -5,6 +5,8 @@
 
 ## Основная часть
 
+Google colab: https://colab.research.google.com/drive/19-7X2kON6Jzc3-jCyTf286eld4wFBh0c?usp=sharing
+
 Таблица с используемыми гистоновыми метками:
 
 | Гистоновая метка | Файл |
